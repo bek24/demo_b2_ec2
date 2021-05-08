@@ -1,0 +1,5 @@
+# This will ignore sensetive info
+**/.terraform/*
+*.tfstate
+*.tfstate.*
+*.tfvars
